@@ -1,4 +1,12 @@
 body {
   background-color: #D7F5E6;
-  font-family: Anonymous Pro;
+}
+
+p {
+	font-family: 'Anonymous Pro';
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
 }
